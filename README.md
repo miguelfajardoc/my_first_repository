@@ -1,2 +1,2 @@
 *Emphasize text* _emphasize_
-**strong text** __sstroong__
+**strong text** __strong__
